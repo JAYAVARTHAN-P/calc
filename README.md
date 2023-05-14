@@ -103,3 +103,7 @@ Publish the website in the given URL.
 ## Client Output:
 
 ![cop](https://github.com/JAYAVARTHAN-P/calc/assets/121369281/0286a54f-d6c7-410f-96c0-54408889ce8a)
+
+## Result:
+A web application for a standard calculator has been designed successfully.
+
