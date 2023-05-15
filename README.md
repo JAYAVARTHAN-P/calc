@@ -53,7 +53,7 @@ Publish the website in the given URL.
         }
         </style>
     </head>
-    <body style="background-color:#000c18">
+    <body style="background-color:green">
         <form name="form1" onload="result.value=''">
             <h1 style="text-align: center;color:rgb(255, 65, 245);">Simple Calculator</h1>
         <table id="calc">
